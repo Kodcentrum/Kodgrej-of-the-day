@@ -1,4 +1,4 @@
-## Algoritm!
+## Algoritm
 
 
 *En algoritm är en instruktion som löser ett problem eller uppgift.*
